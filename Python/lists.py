@@ -8,4 +8,3 @@ print(names[0])
 names.append("Santi")
 names.sort()
 print(names)
-
